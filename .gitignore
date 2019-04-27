@@ -1,0 +1,4 @@
+.DS_Store
+odoo-data
+odoo.env
+postgresql/data
