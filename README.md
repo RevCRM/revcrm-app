@@ -11,8 +11,8 @@ You'll need to create a `odoo.env` file before running the scripts below
 
 The repository uses two docker *volumes*:
 
-* **odoo-addonsa** - *(mounted at /mnt/odoo-addons)* - RevCRM odoo addons
-* **odoo-data** - *(mounted at /mnt/odoo-data)* - Odoo filestore and session storage
+* **odoo-addons** - *(mounted at /mnt/odoo/addons)* - RevCRM odoo addons
+* **odoo-data** - *(mounted at /mnt/odoo/data)* - Odoo filestore and session storage
 
 ## Scripts
 
