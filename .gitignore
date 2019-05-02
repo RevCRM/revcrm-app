@@ -1,4 +1,5 @@
 .DS_Store
 odoo-data
+odoo-addons
 odoo.env
 postgresql/data
